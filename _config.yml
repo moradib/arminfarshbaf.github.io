@@ -10,7 +10,6 @@ email: arminfarshbaf@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
@@ -40,7 +39,7 @@ repo_theme_dark: default           # https://github.com/anuraghazra/github-readm
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -96,7 +95,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Easiest way to reach me is via E-mail
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
